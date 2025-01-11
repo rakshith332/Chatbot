@@ -13,12 +13,11 @@ A modern chatbot application built with **React.js** and powered by the **Gemini
 
 ## Demo
 
-Live Demo: [Chatbot Demo]([https://your-demo-link.com](https://chatbot-sigma-sandy-68.vercel.app/))
+Live Demo: [Chatbot Demo]([https://your-demo-link.com](https://chatbot-sigma-sandy-68.vercel.app/)
 
 ## Screenshots
 
 ![Chatbot Image](screenshots/Chatbot image.png)
-
 ## Prerequisites
 
 Before you begin, ensure you have:

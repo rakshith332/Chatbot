@@ -19,7 +19,7 @@ Live Demo: [Chatbot Demo](https://chatbot-sigma-sandy-68.vercel.app/)
 
 Before you begin, ensure you have:
 - [Node.js](https://nodejs.org/) (v16 or higher)
-- npm (comes with Node.js) or yarn
+- npm (comes with Node.js) 
 - A Gemini API key from Google
 
 ## Installation

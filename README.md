@@ -17,7 +17,7 @@ Live Demo: [Chatbot Demo](https://chatbot-sigma-sandy-68.vercel.app/)
 
 ## Screenshots
 
-![Chatbot Image](screenshots/Chatbot image.png)
+![Chatbot Image](Chatbot image.png)
 ## Prerequisites
 
 Before you begin, ensure you have:
